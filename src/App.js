@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="coin-app">
       <div className="coin-search">
-        {/* <h1 className="coin-text">Search your desired coin</h1> */}
+        {<h1 className="coin-text">Search your desired coin</h1> }
         <form action="">
           <input type="text" className="coin-input" placeholder="Provide the coin name" onChange={handleChange}/>
 
