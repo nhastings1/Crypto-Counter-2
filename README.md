@@ -1,7 +1,4 @@
 
-<h1 align="center">Crypto Counter 2 👋</h1>
-
-![IMG]()
   
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 ## Description
@@ -42,4 +39,3 @@ This application is covered by the Open license.
 
 _This README was generated with ❤️ by [
 top_notch_readme_generator](https://github.com/nhastings1/top-notch-readme-generator) 🔥🔥🔥_
-    
