@@ -1,5 +1,7 @@
 
 <h1 align="center">Crypto Counter 2 👋</h1>
+
+![IMG]()
   
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)<br />
 ## Description
@@ -15,17 +17,17 @@
 - [Questions](#questions)
 
 ## Installation
-💾 
+💾 "npm install"
 
 ## Usage
-💻 Tracking crypto prices daily.
+💻 Tracking crypto prices and daily movements.
 
 ## License
 ![badge](https://img.shields.io/badge/license-Open-brightgreen)
 <br />
 This application is covered by the Open license. 
 
-## Contributing
+## Contributing | Author 
 👪 Nick Hastings
 
 ## Tests
